@@ -1,0 +1,19 @@
+{
+  "name": "dailybotg3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.5.0",
+    "discord-api-types": "^0.33.5",
+    "discord.js": "^13.6.0",
+    "exceljs": "^4.3.0",
+    "nodemon": "^2.0.15"
+  }
+}
